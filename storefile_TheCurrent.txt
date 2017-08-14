@@ -1,0 +1,425 @@
+1	2017-08-02 19:51:12.299309	Freeze Me	Death From Above
+1	2017-08-02 19:56:16.164639	Drew Barrymore	SZA
+1	2017-08-02 19:58:18.539351	Casual Party	Band of Horses
+1	2017-08-02 20:06:21.937482	White Man's World	Jason Isbell
+1	2017-08-03 21:08:39.590465	Rescue	Echo and the Bunnymen
+1	2017-08-03 21:10:41.559541	Kick Drum Heart	The Avett Brothers
+1	2017-08-03 21:16:56.064011	For the Love of Money	The O'Jays
+1	2017-08-03 21:21:24.452575	Can I Sit Next To You	Spoon
+1	2017-08-03 21:27:31.714584	Signs of Life	Arcade Fire
+1	2017-08-03 21:31:36.756195	Older And Taller	Regina Spektor
+1	2017-08-03 21:37:43.416961	I Have the Touch	Peter Gabriel
+1	2017-08-03 21:41:48.912517	May I Have This Dance (Remix) feat. Chance The Rapper	Francis and the Lights
+1	2017-08-03 21:47:54.165494	Automatic	Mondo Cozmo
+1	2017-08-03 21:49:56.916297	White Mustang	Lana Del Rey
+1	2017-08-03 21:56:02.481756	White Man's World	Jason Isbell
+1	2017-08-03 22:00:06.487842	Hunger of the Pine	Alt-J
+1	2017-08-03 22:02:09.441795	Transmission	Joy Division
+1	2017-08-03 22:06:14.758823	More Than This	Roxy Music
+1	2017-08-03 22:12:21.547954	Slave To Love	Bryan Ferry
+1	2017-08-03 22:18:28.624056	I Put a Spell On You	Bryan Ferry
+1	2017-08-03 22:28:39.488888	Don't Stop the Dance (Greg Wilson &amp; Derek Kaye Mix)	Bryan Ferry
+1	2017-08-03 22:34:46.313357	Love Is The Drug	Roxy Music
+1	2017-08-03 22:40:54.746656	True	Spandau Ballet
+1	2017-08-03 22:44:58.425658	Be Near Me	ABC
+1	2017-08-03 22:51:06.077239	Lonely In Your Nightmare	Duran Duran
+1	2017-08-03 22:57:17.167389	Swing	Japan
+1	2017-08-03 23:01:22.318390	Lost You on the Dance Floor	The Suburbs
+1	2017-08-03 23:03:26.690183	Feels Like We Only Go Backwards	Tame Impala
+1	2017-08-03 23:07:31.076452	What You Do To Me	Benjamin Gibbard
+1	2017-08-03 23:13:37.297595	Call It Dreaming	Iron and Wine
+1	2017-08-03 23:19:44.879962	Tongue Tied	Grouplove
+1	2017-08-07 12:49:33.882568	Sooner Or Later	Sonny Knight and The Lakers
+1	2017-08-07 12:53:38.933085	Fatal Gift	Emily Haines and the Soft Skeleton
+1	2017-08-07 12:57:48.227723	Just Like a Woman	Nina Simone
+1	2017-08-07 13:03:54.316958	Faded Heart	BORNS
+1	2017-08-07 15:19:54.897162	Living In The City	Hurray For The Riff Raff
+1	2017-08-07 19:40:24.629146	Autumn Beds	Modest Mouse
+1	2017-08-07 19:43:54.269426	Lift	Radiohead
+1	2017-08-07 19:48:45.614241	I Confess	The English Beat
+1	2017-08-07 19:53:19.442244	SGL	Now  Now
+1	2017-08-07 20:05:13.436698	Friendship (Is a Small Boat in a Storm)	Chicano Batman
+1	2017-08-07 20:11:28.911952	Sweet Jane	The Velvet Underground
+1	2017-08-07 20:17:28.620099	Never Been Wrong	Waxahatchee
+1	2017-08-07 20:22:58.417805	Worried Blues	Charlie Parr
+1	2017-08-07 20:58:52.047192	American Dream	LCD Soundsystem
+1	2017-08-07 20:59:10.051544	Drew Barrymore	SZA
+1	2017-08-08 10:02:28.192811	Leopard-Skin Pill-Box Hat	Raphael Saadiq
+1	2017-08-08 10:19:51.008179	Trying	Bully
+1	2017-08-09 15:41:58.514950	We Were Beautiful	Belle and Sebastian
+1	2017-08-09 15:46:42.169737	Star Roving	Slowdive
+1	2017-08-09 15:55:22.293405	Moonshine Freeze	This Is the Kit
+1	2017-08-09 16:20:55.278155	I Promise	Radiohead
+1	2017-08-09 16:21:24.977958	Under The Big Black Sun	X
+1	2017-08-09 16:26:12.673067	Time's Been Reckless	Marika Hackman
+1	2017-08-09 16:32:02.352663	High Ball Stepper	Jack White
+1	2017-08-09 16:38:02.465244	Whiteout Conditions	The New Pornographers
+1	2017-08-09 16:42:02.540402	Jumpstarting	Deer Tick
+1	2017-08-09 16:48:02.380280	How Long Do I Have To Wait For You	Sharon Jones and The Dap-Kings
+1	2017-08-09 16:52:03.421037	Wall of Glass	Liam Gallagher
+1	2017-08-09 19:25:46.442221	Witness feat. Mavis Staples	Benjamin Booker
+1	2017-08-09 19:29:47.115413	Fade To Grey	Visage
+1	2017-08-09 19:33:28.158367	Love	Lana Del Rey
+1	2017-08-09 19:39:29.118546	Hard to Explain	The Strokes
+1	2017-08-09 19:45:30.987305	I'm On Fire	Bruce Springsteen
+1	2017-08-09 19:49:32.690223	Holding On	The War on Drugs
+1	2017-08-09 19:55:33.965739	Police And Thieves	The Clash
+1	2017-08-09 20:07:34.677913	Carried Away	Chastity Brown
+1	2017-08-09 20:13:37.345172	I Am Trying To Break Your Heart	Jeff Tweedy
+1	2017-08-09 20:17:38.547265	Living In The City	Hurray For The Riff Raff
+1	2017-08-09 20:21:39.162806	Whole Wide World	Cage The Elephant
+1	2017-08-09 20:27:42.569540	How To Boil An Egg	Courtney Barnett
+1	2017-08-09 20:33:45.010261	May I Have This Dance (Remix) feat. Chance The Rapper	Francis and the Lights
+1	2017-08-09 20:39:45.922530	New York	St. Vincent
+1	2017-08-09 20:45:46.928748	The Way You Used To Do	Queens of the Stone Age
+1	2017-08-09 20:55:48.430559	29 #Strafford APTS	Bon Iver
+1	2017-08-09 21:47:51.225915	Bamako	Songhoy Blues
+1	2017-08-09 21:53:52.812022	Any Party	Feist
+1	2017-08-09 21:59:52.828501	Best Of You	Foo Fighters
+1	2017-08-09 22:05:53.447069	Good Time Gone	Jade Jackson
+1	2017-08-09 22:13:54.111761	True Love Waits	Radiohead
+1	2017-08-09 22:19:55.211956	In And Out	Beth Ditto
+1	2017-08-09 22:25:55.926880	Fill In The Blank	Car Seat Headrest
+1	2017-08-09 22:29:56.667572	American Dream	LCD Soundsystem
+1	2017-08-09 22:39:57.729872	Diamonds and Dynamite	Donna Grantis
+1	2017-08-09 22:47:59.758270	Stepping Razor	Peter Tosh
+1	2017-08-09 22:54:00.642875	Mourning Sound	Grizzly Bear
+1	2017-08-09 23:00:00.535866	Back Door Man	Howlin' Wolf
+1	2017-08-09 23:06:02.662359	Put The Kids To Bed	Ron Gallo
+1	2017-08-09 23:12:02.855913	Die Young	Sylvan Esso
+1	2017-08-09 23:18:02.898490	God Put A Smile Upon Your Face	Coldplay
+1	2017-08-09 23:24:02.931379	Stand By My Girl	Dan Auerbach
+1	2017-08-09 23:30:04.907630	Andromeda feat. D.R.A.M.	Gorillaz
+1	2017-08-09 23:36:06.432068	Rain Water	Brother Ali
+1	2017-08-09 23:42:07.839648	To Live and Die in LBI	Lifter Puller
+1	2017-08-09 23:48:07.301820	Ain't It a Sin	Charles Bradley
+1	2017-08-09 23:52:07.725703	Moonshine Freeze	This Is the Kit
+1	2017-08-09 23:58:08.619288	Me and You	Jake Bugg
+1	2017-08-10 00:02:08.594199	The Rascal King	The Mighty Mighty Bosstones
+1	2017-08-10 00:08:08.959326	Just Can't Get Enough	Sheer Mag
+1	2017-08-10 00:14:09.072333	A Girl Like You	The Smithereens
+1	2017-08-10 00:20:08.993518	Don't Take My Sunshine Away	Sparklehorse
+1	2017-08-10 00:26:08.963513	The Wanting	J. Roddy Walston and The Business
+1	2017-08-10 00:32:09.247660	Scotch and Water	Cannonball Adderley
+1	2017-08-10 00:38:09.773951	Beautiful People Beautiful Problems feat. Stevie Nicks	Lana Del Rey
+1	2017-08-10 00:44:09.897773	Staring Into the Sun	Brian Just
+1	2017-08-10 00:50:10.286677	Institutionalized	Suicidal Tendencies
+1	2017-08-10 00:56:11.915241	Every Day's the Weekend	Alex Lahey
+1	2017-08-10 01:02:13.641170	Wow	Beck
+1	2017-08-10 01:08:14.573372	XXX. feat. U2	Kendrick Lamar
+1	2017-08-10 01:14:15.727036	Ti Amo	Phoenix
+1	2017-08-10 01:20:15.608910	I'm Not Gonna Teach Your Boyfriend How To Dance With You	Black Kids
+1	2017-08-10 01:24:16.930079	Boris The Spider	The Who
+1	2017-08-10 01:30:17.376706	Soul Kitchen	Echo and the Bunnymen
+1	2017-08-10 01:36:18.229409	Wake Up	Chastity Brown
+1	2017-08-10 01:42:18.530641	Fire	Barns Courtney
+1	2017-08-10 01:48:21.317684	The System Only Dreams In Total Darkness	The National
+1	2017-08-10 01:54:22.356417	Hungry Ghost	Hurray For The Riff Raff
+1	2017-08-10 02:00:22.664498	Where I'm Going	Rancid
+1	2017-08-10 02:06:23.539673	Love	The Sundays
+1	2017-08-10 02:12:24.300287	Total Entertainment Forever	Father John Misty
+1	2017-08-10 02:18:24.902330	Lightening Blue Eyes	Secret Machines
+1	2017-08-10 02:24:25.650156	Soothing	Laura Marling
+1	2017-08-10 02:30:26.883505	Kick Jump Twist	Sylvan Esso
+1	2017-08-10 02:36:27.457378	Red Wing Blue Wing	Dead Man Winter
+1	2017-08-10 02:42:27.901424	When The Tequila Runs Out	Dawes
+1	2017-08-10 02:48:29.658766	Down Rodeo	Rage Against The Machine
+1	2017-08-10 02:54:30.441320	Time's Been Reckless	Marika Hackman
+1	2017-08-10 03:00:31.020941	Lose Control	Motion City Soundtrack
+1	2017-08-10 03:06:31.985539	Let Forever Be	The Chemical Brothers
+1	2017-08-10 03:10:33.830757	Do You Still Love Me	Ryan Adams
+1	2017-08-10 03:16:34.498380	Everything Now	Arcade Fire
+1	2017-08-10 03:22:34.942414	Fatal Gift	Emily Haines and the Soft Skeleton
+1	2017-08-10 03:28:35.885586	Hang Them All	Tapes 'n Tapes
+1	2017-08-10 03:34:36.173241	Holding On	The War on Drugs
+1	2017-08-10 03:40:42.089455	MCs Act Like They Don't Know	KRS One
+1	2017-08-10 03:46:42.599253	The Way You'd Love Her	Mac DeMarco
+1	2017-08-10 03:52:43.462252	There's Too Much Love	Belle and Sebastian
+1	2017-08-10 03:58:48.972859	Cruel World	Phantogram
+1	2017-08-10 04:04:50.878044	The Mayor of Simpleton	XTC
+1	2017-08-10 04:10:53.389386	The People	Common
+1	2017-08-10 04:16:54.652601	Man Of War	Radiohead
+1	2017-08-10 04:22:59.797513	Fool's Errand	Fleet Foxes
+1	2017-08-10 04:29:00.448638	One More Night	Michael Kiwanuka
+1	2017-08-10 04:35:02.427001	Perfect Places	Lorde
+1	2017-08-10 04:41:03.972555	White Man's World	Jason Isbell
+1	2017-08-10 04:47:04.753147	Stay With Me	Sam Smith
+1	2017-08-10 04:53:07.000870	Feel The Same	Bully
+1	2017-08-10 04:59:06.944175	Deep Pool	The Hang Ups
+1	2017-08-10 05:05:08.002777	This Lonely Morning	Best Coast
+1	2017-08-10 05:11:10.273712	The Man Who Sold the World	Nirvana
+1	2017-08-10 05:17:11.338501	Where I'm Going	Cut Copy
+1	2017-08-10 05:23:12.251911	Pink and White	Frank Ocean
+1	2017-08-10 05:29:13.527328	Kashmir	Led Zeppelin
+1	2017-08-10 05:35:13.409691	White Mustang	Lana Del Rey
+1	2017-08-10 05:39:14.362635	Whole Wide World	Cage The Elephant
+1	2017-08-10 05:45:14.223228	Don't You Give Up On Me	Lissie
+1	2017-08-10 05:49:15.258199	Never Say Never	Romeo Void
+1	2017-08-10 05:53:16.129392	Bamako	Songhoy Blues
+1	2017-08-10 05:57:16.908057	Orange Flower	Angelica Garcia
+1	2017-08-10 06:03:17.429963	Black Metallic	Catherine Wheel
+1	2017-08-10 06:15:20.290786	Killer Diller Blues	Alabama Shakes
+1	2017-08-10 06:21:20.505777	Too High	Stevie Wonder
+1	2017-08-10 06:33:21.462675	Spirits	The Strumbellas
+1	2017-08-10 06:55:26.122200	Oh! You Pretty Things	David Bowie
+1	2017-08-10 07:01:26.678335	Red Dragon Tattoo	Fountains of Wayne
+1	2017-08-10 07:07:27.102861	Vertigo	U2
+1	2017-08-10 07:13:29.051466	Mourning Sound	Grizzly Bear
+1	2017-08-10 07:17:30.437592	Dirty Paws	Of Monsters And Men
+1	2017-08-10 07:23:30.428228	Lively Up Yourself	Bob Marley and The Wailers
+1	2017-08-10 07:29:31.772740	Any Party	Feist
+1	2017-08-10 07:33:32.094277	Alone In My Home	Jack White
+1	2017-08-10 07:43:35.178694	Whiteout Conditions	The New Pornographers
+1	2017-08-10 07:55:36.753271	Be My Baby	The Ronettes
+1	2017-08-10 07:57:36.732793	Faded Heart	BORNS
+1	2017-08-10 08:01:37.009363	Something About You	Lucius
+1	2017-08-10 08:05:37.176227	Flesh Without Blood	Grimes
+1	2017-08-10 08:15:39.318717	Don't Delete The Kisses	Wolf Alice
+1	2017-08-10 08:19:39.598184	Crosseyed And Painless	Talking Heads
+1	2017-08-10 08:21:39.732936	Die Young	Sylvan Esso
+1	2017-08-10 08:31:41.657819	Midnight On The Interstate	Trampled by Turtles
+1	2017-08-10 08:43:43.962257	Hand In Hand feat. James Greer and Co.	Jayanthi Kyle
+1	2017-08-10 08:47:44.032574	Fall in Love	Phantogram
+1	2017-08-10 08:57:46.540114	Stand By My Girl	Dan Auerbach
+1	2017-08-10 09:01:46.998979	Waterfall	The Stone Roses
+1	2017-08-10 09:05:47.348995	Rio	Duran Duran
+1	2017-08-10 09:15:48.793724	Gentle On My Mind	Glen Campbell
+1	2017-08-10 09:19:50.915021	Signs of Life	Arcade Fire
+1	2017-08-10 09:23:53.315642	Suicides and Lazy Eyes	Rainer Maria
+1	2017-08-10 09:29:53.620493	Bang A Gong Get It On	T. Rex
+1	2017-08-10 09:33:53.858913	Chain Gang	Sam Cooke
+1	2017-08-10 09:45:55.206213	Yellow Submarine	The Beatles
+1	2017-08-10 09:49:54.994256	Tall Boy	Har Mar Superstar
+1	2017-08-10 09:51:55.126414	Blockbuster	Sweet
+1	2017-08-10 09:55:55.303295	LMK	Kelela
+1	2017-08-10 10:01:56.466482	Whip It	Devo
+1	2017-08-10 10:07:56.837459	Under The Influence	Elle King
+1	2017-08-10 10:12:02.204120	Computer Blue	The Revolution Live at RTG
+1	2017-08-10 10:18:03.993282	Let's Work	The Revolution Live at RTG
+1	2017-08-10 10:24:04.203564	1999	The Revolution Live at RTG
+1	2017-08-10 10:28:09.308310	Kiss	The Revolution Live at RTG
+1	2017-08-10 10:36:11.336794	When Doves Cry	The Revolution Live at RTG
+1	2017-08-10 10:42:11.644246	Let's Go Crazy	The Revolution Live at RTG
+1	2017-08-10 10:48:12.953618	Baby I'm A Star	The Revolution Live at RTG
+1	2017-08-10 10:52:12.702508	Purple Rain	The Revolution Live at RTG
+1	2017-08-10 11:02:16.842945	Half A Million	The Shins
+1	2017-08-10 11:08:19.038158	Humiliation	The National
+1	2017-08-10 11:14:26.144028	Near to the Wild Heart of Life	Japandroids
+1	2017-08-10 11:20:27.068603	Heartbreak Hotel	Elvis Presley
+1	2017-08-10 11:26:27.345094	I Am Trying To Break Your Heart	Jeff Tweedy
+1	2017-08-10 11:32:28.616752	No One's Leaving	Jane's Addiction
+1	2017-08-10 11:38:30.008362	Don't Wanna Fight	Alabama Shakes
+1	2017-08-10 11:44:30.339620	Freeze Me	Death From Above
+1	2017-08-10 11:50:30.831591	Another Girl, Another Planet	The Only Ones
+1	2017-08-10 11:56:33.075336	Total Entertainment Forever	Father John Misty
+1	2017-08-10 12:02:34.275388	We Used To Be Friends	The Dandy Warhols
+1	2017-08-10 12:08:34.906513	Living On The 110	Prophets of Rage
+1	2017-08-10 12:14:36.196355	Tied To The Tracks	Soul Asylum
+1	2017-08-10 12:18:36.127449	Call It Dreaming	Iron and Wine
+1	2017-08-10 12:22:37.557234	Lift	Radiohead
+1	2017-08-10 12:28:40.014229	Every Other Freckle	Alt-J
+1	2017-08-10 12:34:40.321007	Even Better Than the Real Thing	U2
+1	2017-08-10 12:36:41.494174	Never Been Wrong	Waxahatchee
+1	2017-08-10 12:42:43.170741	In And Out	Beth Ditto
+1	2017-08-10 12:48:45.437290	Hair	Larry Graham and Graham Central Station
+1	2017-08-10 12:54:45.505861	Time's Been Reckless	Marika Hackman
+1	2017-08-10 12:58:45.993114	Come on! Feel the Illinoise!	Sufjan Stevens
+1	2017-08-10 13:04:48.808610	Gangsters	The Specials
+1	2017-08-10 13:10:48.960253	Cute Without the E	Taking Back Sunday
+1	2017-08-10 13:16:51.531735	Can I Sit Next To You	Spoon
+1	2017-08-10 13:18:52.833803	Dead Fox	Courtney Barnett
+1	2017-08-10 13:24:55.523985	Collarbone	Fujiya and Miyagi
+1	2017-08-10 13:26:55.700797	Jumpstarting	Deer Tick
+1	2017-08-10 13:32:57.096048	Busted	Ray Charles
+1	2017-08-10 13:36:57.660625	Ophelia	The Lumineers
+1	2017-08-10 13:42:58.858480	All the Old Showstoppers	The New Pornographers
+1	2017-08-10 13:50:58.747354	Stay	David Bowie
+1	2017-08-10 14:01:00.009198	Heart Is A Drum	Beck
+1	2017-08-10 14:07:01.501873	Perfect Places	Lorde
+1	2017-08-10 14:13:02.523638	Guess Who's Coming to Dinner?	Black Uhuru
+1	2017-08-10 14:19:02.932944	Old Friends	Pinegrove
+1	2017-08-10 14:23:02.782503	Fool's Errand	Fleet Foxes
+1	2017-08-10 14:27:03.747254	Outtathaway!	The Vines
+1	2017-08-10 14:33:04.921997	Living In The City	Hurray For The Riff Raff
+1	2017-08-10 14:37:05.537750	Believe	Benjamin Booker
+1	2017-08-10 14:45:06.895991	Fidelity	Regina Spektor
+1	2017-08-10 14:49:07.655065	Holding On	The War on Drugs
+1	2017-08-10 14:57:08.256460	Shine On Me	Dan Auerbach
+1	2017-08-10 15:03:10.660662	I Don't Know You Anymore	Bob Mould
+1	2017-08-10 15:09:11.202593	High	The Cure
+1	2017-08-10 15:15:12.079760	Drive Slow	Chastity Brown
+1	2017-08-10 15:21:12.321194	All Of Me	Willie Nelson
+1	2017-08-10 15:25:12.596641	Skyline	Broken Social Scene
+1	2017-08-10 15:31:13.861799	Talk of the Town	The Pretenders
+1	2017-08-10 15:33:19.923206	Creature Comfort	Arcade Fire
+1	2017-08-10 15:39:22.327604	Faded Heart	BORNS
+1	2017-08-10 15:45:23.545290	Secret Heart	Feist
+1	2017-08-10 15:51:23.626433	Real Cool	The Suicide Commandos
+1	2017-08-10 15:57:24.552215	I Need Never Get Old	Nathaniel Rateliff and the Night Sweats
+1	2017-08-10 16:03:25.786375	Shine	Mondo Cozmo
+1	2017-08-10 16:09:25.831179	Ain't It Fun	Paramore
+1	2017-08-10 16:15:27.060847	Dirty Water	The Standells
+1	2017-08-10 16:21:28.480587	Canyon	Joseph
+1	2017-08-10 16:33:38.440023	American Dream	LCD Soundsystem
+1	2017-08-10 16:39:38.683957	Terrible Lie	Nine Inch Nails
+1	2017-08-10 16:43:39.975154	Bamako	Songhoy Blues
+1	2017-08-10 16:47:41.140663	Slow Hands	Interpol
+1	2017-08-10 16:51:41.032272	New York	St. Vincent
+1	2017-08-10 16:57:41.707449	Fast As You Can	Fiona Apple
+1	2017-08-10 17:01:41.726490	The Wanting	J. Roddy Walston and The Business
+1	2017-08-10 17:07:42.527344	Fatal Gift	Emily Haines and the Soft Skeleton
+1	2017-08-10 17:13:45.277702	Cubicle	Rinocerose
+1	2017-08-10 17:19:45.241593	Andromeda feat. D.R.A.M.	Gorillaz
+1	2017-08-10 17:25:47.178761	Euro-Trash Girl	Cracker
+1	2017-08-10 17:37:48.144426	Man Of War	Radiohead
+1	2017-08-10 17:43:48.966954	Every Day's the Weekend	Alex Lahey
+1	2017-08-10 17:47:49.109219	Don't Delete The Kisses	Wolf Alice
+1	2017-08-10 17:51:49.173135	Kiss Off	Violent Femmes
+1	2017-08-10 17:57:49.239305	Where I'm Going	Rancid
+1	2017-08-10 18:01:51.725187	Hand Clap	Fitz and the Tantrums
+1	2017-08-10 18:07:54.741048	White Man's World	Jason Isbell
+1	2017-08-10 18:13:55.259249	The System Only Dreams In Total Darkness	The National
+1	2017-08-10 18:21:56.858846	Kick Jump Twist	Sylvan Esso
+1	2017-08-10 18:27:58.124139	New Moon On Monday	Duran Duran
+1	2017-08-10 18:31:58.636099	Whole Wide World	Cage The Elephant
+1	2017-08-10 18:37:59.293858	Shutterbugg	Big Boi
+1	2017-08-10 18:44:00.565652	Cantaloupe Island	Herbie Hancock
+1	2017-08-10 18:50:01.142085	Half A Million	The Shins
+1	2017-08-10 18:56:03.433415	8 (circle)	Bon Iver
+1	2017-08-10 19:08:07.397073	Chain My Name	Polica
+1	2017-08-10 19:14:07.535588	Rain in the Summertime	The Alarm
+1	2017-08-10 19:22:07.901842	Showboat	Josh Ritter
+1	2017-08-10 19:26:09.280529	People Gonna Talk	James Hunter
+1	2017-08-10 19:32:10.991462	Mourning Sound	Grizzly Bear
+1	2017-08-10 19:36:17.287949	Just Can't Get Enough	Sheer Mag
+1	2017-08-10 19:42:18.023290	Pretty Vacant	Sex Pistols
+1	2017-08-10 19:48:20.155250	I Am Trying To Break Your Heart	Jeff Tweedy
+1	2017-08-10 19:52:20.342715	Moonshine Freeze	This Is the Kit
+1	2017-08-10 19:58:23.459061	Darling	Real Estate
+1	2017-08-10 20:02:25.008476	Say Something Loving	The XX
+1	2017-08-10 20:08:26.253854	So. Central Rain	R.E.M.
+1	2017-08-10 20:14:26.937358	Wall of Glass	Liam Gallagher
+1	2017-08-10 20:20:29.216951	Tempe, AZ	Landing Gear
+1	2017-08-10 20:22:30.038986	XXX. feat. U2	Kendrick Lamar
+1	2017-08-10 20:28:30.858451	Capsized	Andrew Bird
+1	2017-08-10 20:34:30.940948	Carried Away	Chastity Brown
+1	2017-08-10 20:36:31.265246	Northern Sky	Nick Drake
+1	2017-08-10 20:42:32.702033	Agnes	Glass Animals
+1	2017-08-10 20:46:33.549311	God Only Knows	The Beach Boys
+1	2017-08-10 20:52:35.533896	Time's Been Reckless	Marika Hackman
+1	2017-08-10 20:54:35.825933	Total Entertainment Forever	Father John Misty
+1	2017-08-10 20:56:35.959662	Time's Been Reckless	Marika Hackman
+1	2017-08-10 20:58:36.594254	You Want It Darker	Leonard Cohen
+1	2017-08-10 21:04:39.032525	Shiver	Coldplay
+1	2017-08-10 21:10:40.041074	Good As Hell	Lizzo
+1	2017-08-10 21:16:40.258855	Police And Thieves	Junior Murvin
+1	2017-08-10 21:20:41.719866	Call It Dreaming	Iron and Wine
+1	2017-08-10 21:26:41.893139	Jumpstarting	Deer Tick
+1	2017-08-10 21:30:42.743046	Gardenia	Iggy Pop
+1	2017-08-10 21:32:43.257831	What You Do to Me	Teenage Fanclub
+1	2017-08-10 21:34:43.346148	Gardenia	Iggy Pop
+1	2017-08-10 21:36:44.346707	Beautiful People Beautiful Problems feat. Stevie Nicks	Lana Del Rey
+1	2017-08-10 21:40:45.378853	Brillo de Facto	The Fall
+1	2017-08-10 21:46:47.516194	Fight Test	The Flaming Lips
+1	2017-08-10 21:52:49.463887	We Were Beautiful	Belle and Sebastian
+1	2017-08-10 21:58:50.419273	FADES	ZULUZULUU
+1	2017-08-10 22:04:55.655319	New Song	Howard Jones
+1	2017-08-10 22:08:56.327606	Pop Goes the World	Men Without Hats
+1	2017-08-10 22:12:57.559003	Mirror In The Bathroom	The English Beat
+1	2017-08-10 22:16:58.114236	Come Back &amp; Stay	Paul Young
+1	2017-08-10 22:22:59.151798	I Melt with You	Modern English
+1	2017-08-10 22:27:00.969413	The Safety Dance	Men Without Hats
+1	2017-08-10 22:33:02.118488	Walking On Sunshine	Katrina and the Waves
+1	2017-08-10 22:43:02.758912	No One Is To Blame	Howard Jones
+1	2017-08-10 22:47:05.780725	Can't Get Used To Losing	The English Beat
+1	2017-08-10 22:53:07.070233	Save It For Later	The English Beat
+1	2017-08-10 22:59:07.799884	Someone's Calling	Modern English
+1	2017-08-10 23:05:08.932083	Last Nite	The Strokes
+1	2017-08-10 23:11:10.040864	Creep (Acoustic)	Radiohead
+1	2017-08-10 23:17:11.116980	Can I Sit Next To You	Spoon
+1	2017-08-10 23:23:13.325111	Calamity Song	The Decemberists
+1	2017-08-10 23:29:14.477066	Back Against The Wall	Son Volt
+1	2017-08-10 23:35:16.445703	With God on Our Side	Bob Dylan
+1	2017-08-10 23:41:20.098296	Signs of Life	Arcade Fire
+1	2017-08-10 23:48:10.680174	See My People Through prod. by Mamadu	Toki Wright
+1	2017-08-12 13:41:10.946791	In Between Days	The Cure
+1	2017-08-12 13:45:11.366207	The System Only Dreams In Total Darkness	The National
+1	2017-08-12 13:51:11.232041	Honolulu Blues	Craig Finn
+1	2017-08-12 13:55:11.480639	Fool's Errand	Fleet Foxes
+1	2017-08-12 14:01:11.800581	Sugah Daddy	D'Angelo and The Vanguard
+1	2017-08-12 14:07:12.278937	Bamako	Songhoy Blues
+1	2017-08-12 14:13:12.140328	You And I	Margaret Glaspy
+1	2017-08-12 14:19:11.986823	Every Day's the Weekend	Alex Lahey
+1	2017-08-12 14:25:12.816510	Radio Free Europe	R.E.M.
+1	2017-08-12 14:31:12.701128	Everything Now	Arcade Fire
+1	2017-08-12 14:37:13.212421	One of These Days	Bedouine
+1	2017-08-12 14:43:13.584433	Don't Delete The Kisses	Wolf Alice
+1	2017-08-12 14:49:13.507908	Bad Street	Twin Sister
+1	2017-08-12 14:55:13.350341	Suicides and Lazy Eyes	Rainer Maria
+1	2017-08-12 15:01:13.820640	Say Yeah	Kishi Bashi
+1	2017-08-12 15:07:13.575830	I Feel Love (Every Million Miles)	The Dead Weather
+1	2017-08-12 15:09:14.808550	Wake Up	Chastity Brown
+1	2017-08-12 15:15:16.239634	It Gets More Blue	Girlpool
+1	2017-08-12 15:21:17.965456	Ti Amo	Phoenix
+1	2017-08-12 15:27:18.912704	minipops 67	Aphex Twin
+1	2017-08-12 15:33:19.657311	Pale Blue Eyes	The Velvet Underground
+1	2017-08-12 15:39:19.798740	Violet Hill	Coldplay
+1	2017-08-12 15:45:21.374483	You Don't Get Me High Anymore	Phantogram
+1	2017-08-12 15:51:27.166288	Andromeda feat. D.R.A.M.	Gorillaz
+1	2017-08-12 15:57:27.497202	Surf Wax America	Weezer
+1	2017-08-12 16:03:27.943235	River	Bishop Briggs
+1	2017-08-12 16:09:29.209169	Holding On	The War on Drugs
+1	2017-08-12 16:15:29.153863	Wind Chimes	The Beach Boys
+1	2017-08-12 16:19:30.724737	Moonshine Freeze	This Is the Kit
+1	2017-08-12 16:25:32.114468	The Breaks (Part 1)	Kurtis Blow
+1	2017-08-12 16:31:32.873417	I'm an Outlaw	Kurt Vile
+1	2017-08-12 16:37:34.324817	Wow	Beck
+1	2017-08-12 16:43:36.525666	My Boy Lollipop	Millie Small
+1	2017-08-12 16:49:37.174087	Trouble	Coldplay
+1	2017-08-12 16:55:37.379307	Where I'm Going	Rancid
+1	2017-08-12 17:01:38.078803	20th Century Boy	T. Rex
+1	2017-08-12 17:07:38.094831	Velvet	The Big Pink
+1	2017-08-12 17:13:39.167520	Just One Of The Guys	Jenny Lewis
+1	2017-08-12 17:19:40.026615	Good Time Gone	Jade Jackson
+1	2017-08-12 17:25:40.811126	I'm in Love	Teenage Fanclub
+1	2017-08-12 17:31:42.195474	American Dream	LCD Soundsystem
+1	2017-08-12 17:35:44.011625	Lucky Penny	JD McPherson
+1	2017-08-12 17:41:45.996153	Only Happy When It Rains	Garbage
+1	2017-08-12 17:47:47.421533	Mourning Sound	Grizzly Bear
+1	2017-08-12 17:53:49.108110	No Quarter	Led Zeppelin
+1	2017-08-12 17:59:49.347586	The Scientist	Coldplay
+1	2017-08-12 18:03:51.251409	Ghost	Jeremy Messersmith
+1	2017-08-12 18:09:52.261450	To Zion	Lauryn Hill
+1	2017-08-12 18:15:54.263831	Wall of Glass	Liam Gallagher
+1	2017-08-12 18:21:54.910528	Baby Don't You Do It	Marvin Gaye
+1	2017-08-12 18:27:56.174787	Angela	The Lumineers
+1	2017-08-12 18:33:57.260627	Skyline	Broken Social Scene
+1	2017-08-12 18:40:01.299378	Preludes	Craig Finn
+1	2017-08-12 18:46:02.783006	No Surprises	Radiohead
+1	2017-08-12 18:52:05.641236	Adventure Of A Lifetime	Coldplay
+1	2017-08-12 18:56:08.869543	SGL	Now  Now
+1	2017-08-12 19:02:12.333829	It's Alright for You	The Police
+1	2017-08-12 19:08:15.319101	Hurtin' (On The Bottle)	Margo Price
+1	2017-08-12 19:14:17.326473	White Mustang	Lana Del Rey
+1	2017-08-12 19:20:22.941832	Let's Stick Together	Bryan Ferry
+1	2017-08-12 19:24:24.514797	Stand By My Girl	Dan Auerbach
+1	2017-08-12 19:28:26.678952	Psycho Killer	Talking Heads
+1	2017-08-12 19:34:29.675580	Fun	Blondie
+1	2017-08-12 19:40:38.887323	Magic Man	Heart
+1	2017-08-12 19:46:39.908220	Outshined	Soundgarden
+1	2017-08-12 19:50:39.933453	Bohemian Rhapsody	Queen
+1	2017-08-12 20:00:42.139564	Any Party	Feist
+1	2017-08-12 19:17:30.460918	We Were Beautiful	Belle and Sebastian
+1	2017-08-13 01:06:07.458157	Jumpstarting	Deer Tick
+1	2017-08-13 01:12:07.614113	Mountain Song	Jane's Addiction
+1	2017-08-13 01:18:07.750879	The System Only Dreams In Total Darkness	The National
+1	2017-08-13 01:22:08.157202	Just To Show You	Guided By Voices
+1	2017-08-13 01:28:11.121460	Jockey Full of Bourbon	Tom Waits
+1	2017-08-13 01:34:12.427290	Staring Into the Sun	Brian Just
+1	2017-08-13 01:40:13.822942	Under The Pressure	The War on Drugs
+1	2017-08-13 01:46:14.052267	Washington Bullets	The Clash
+1	2017-08-13 01:50:15.711832	Time's Been Reckless	Marika Hackman
+1	2017-08-13 01:56:15.749620	Harder, Better, Faster, Stronger	Daft Punk
+1	2017-08-13 02:02:17.299250	Kelly Watch The Stars	Air
+1	2017-08-14 10:03:46.348269	We Got To Have Peace	Curtis Mayfield
+1	2017-08-14 10:05:46.768372	Zigzagging Toward The Light	Conor Oberst
