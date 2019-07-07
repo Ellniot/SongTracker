@@ -17,7 +17,7 @@ from bs4 import BeautifulSoup
 # name, url, title obj, artist obj
 def loadStations():
     try:
-        config_file = open('config.txt', 'r')
+        config_file = open('/home/pi/Documents/RadioTrends/SongTracker/config.txt', 'r')
     except:
         file_name = 'config.txt'
         config_file = open(file_name, 'w')
@@ -102,7 +102,7 @@ def getSongAndArtistRadioK(stationData):
 # check if most resent entry is same as new
 # write date, time, title, artist, station
 def writeData(station, title, artist):
-    file_name = 'songFiles\\'
+    file_name = '/home/pi/Documents/RadioTrends/SongTracker/songFiles/'
     file_name += station
     file_name += '.csv'
     last_written_song = ''
@@ -117,9 +117,9 @@ def writeData(station, title, artist):
         open_file = open(file_name, 'w')
         open_file.close()
 
-    print(station)
-    print("\tlast song:    ", last_written_song)
-    print("\tcurrent song: ", title)
+    #print(station)
+    #print("\tlast song:    ", last_written_song)
+    #print("\tcurrent song: ", title)
     if(last_written_song == title):
             return None
     song_file = open(file_name, 'a')
@@ -159,6 +159,7 @@ def loopStations(station_list):
             try:
                 current_song_artist = getSongAndAristKFAI(station)
             except:
+                current_song_artist = None
                 print("ERROR - ",station[0])
         elif (station[0] == 'RadioK'):
             try:
