@@ -1,6 +1,0 @@
-TheCurrent,https://www.thecurrent.org/listen,div,player-title js-update-title,div,player-artist js-update-artist
-JackFM,https://www.radio.com/1041jackfm/listen,div,details__title,div,details__artist
-Go 95.3,http://player.listenlive.co/47141/en/songhistory,type="text/javascript",title,artist,
-Go 96.3,http://player.listenlive.co/31261/en/songhistory,type="text/javascript",title,artist,
-KFAI,https://www.kfai.org/,span,txt,
-RadioK,https://www.radiok.org/playlist/,div,songblock,strong,br

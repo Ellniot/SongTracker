@@ -24,7 +24,7 @@ import requests
 # for handling/printing json (response from KQRS)
 import json
 
-DEBUGGER = True
+DEBUGGER = False
 SAVE_WEB_PAGES = False
 LAST_SONGS_CSV_FILENAME = "last_songs.csv"
 THE_CURRENT_FILENAME = "the_current.csv"
@@ -256,31 +256,14 @@ def get_cities_97(last_song):
         new_page.write(str(siteSoup))
         new_page.close()
 
-    # look for the "LIVE" icon
-    live_icon_frag = siteSoup.find(class_="svg-icon icon-live")
-    if live_icon_frag == None:
-        return ["", ""]
-    
-    # get the parent song fragment
-    parent_frag = live_icon_frag.find_parent(class_="component-track-display type-recentlyplayed")
-    if parent_frag == None:
-        return ["", ""]
+    # look for the "track-title" classes
+    track_title_html = siteSoup.find(class_="track-title")
+    song = track_title_html.find("span").text.strip()
 
-    # get the song
-    song_frag = parent_frag.find(class_="track-title")
-    if DEBUGGER:
-        print("song_frag = " + str(song_frag))
-    song = song_frag.get_text()
-    if DEBUGGER:
-        print("Song title = " + song)
+    # look for the "track-artist" classes
+    track_artist_html = siteSoup.find(class_="track-artist")
+    artist = track_artist_html.find("span").text.strip()
 
-    # get the artist
-    artist_frag = parent_frag.find(class_="track-artist")
-    if DEBUGGER:
-        print("artist_frag = " + str(artist_frag))
-    artist = artist_frag.get_text()
-    if DEBUGGER:
-        print("Artist title = " + artist)
     
     # check if the song is new and log it
     if ((song != last_song[0]) or (artist != last_song[1])):
@@ -315,7 +298,8 @@ def update_last_songs(last_songs_dict, current_songs_dict):
     with open(LAST_SONGS_CSV_FILENAME, 'w', newline='') as write_obj:
         # Create a writer object from csv module
         csv_writer = csv.writer(write_obj)
-        print(str(current_songs_dict.keys()))
+        if DEBUGGER:
+            print(str(current_songs_dict.keys()))
         for key in current_songs_dict.keys():
             output_row = []
             output_row.append(key)
