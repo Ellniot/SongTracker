@@ -3,14 +3,11 @@
 #     to know what to track using beautiful soup
 
 
-# for reading/writing csv files
-import csv
-
-# for checking if the sonfile dir exists
-import os
+# TODO
+#   - add temp bd in case the main one is open in stat viewer
 
 # for getting the date
-from datetime import date, datetime
+from datetime import datetime
 
 import sqlite3
 from sqlite3 import Error
