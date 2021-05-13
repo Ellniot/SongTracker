@@ -2,3 +2,5 @@
 songFiles/
 
 last_songs.csv
+
+stations/__pycache__/
