@@ -15,6 +15,10 @@ def get_kqrs(DEBUGGER=False, SAVE_WEB_PAGES=False):
     if DEBUGGER:
         print(json.dumps(parsed_response, indent=2, sort_keys=True))
 
+    # return blank if unable to gather song from station
+    if parsed_response == []:
+        return ["",""]
+
     # get song
     song = parsed_response[0]["song"]
     if DEBUGGER:

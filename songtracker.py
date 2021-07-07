@@ -5,6 +5,12 @@
 
 # TODO
 #   - add temp bd in case the main one is open in stat viewer
+#   - add catches in the staion scrapers in case there is no song
+#   - add catch in 
+
+# INSTALLS
+# python3 -m pip install beautifulsoup4
+# python3 -m pip install requests 
 
 # for getting the date
 from datetime import datetime

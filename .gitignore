@@ -4,3 +4,5 @@ songFiles/
 last_songs.csv
 
 stations/__pycache__/
+
+all_stations.db
