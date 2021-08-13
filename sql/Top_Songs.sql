@@ -8,5 +8,5 @@ WHERE timestamp > (
 	SELECT date('now','-%d month')
 )
 GROUP BY song_name
-ORDER BY cnt DESC 
+ORDER BY cnt DESC
 LIMIT %d
