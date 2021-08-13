@@ -90,7 +90,10 @@ def main():
         return
     c = conn.cursor()
 
-    get_top_songs(c, "the_current", "'2021-05-10T16:34:40.336198'", "'2021-05-15T16:34:40.336198'", 3)
+    # TODO Check if db exists
+    # TODO Check if table exists
+    get_top_songs(c, "the_current", "'2021-05-10T16:34:40.336198'", "'now'", 3)
 
 if __name__ == '__main__':
+
     main()
