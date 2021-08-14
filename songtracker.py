@@ -28,7 +28,8 @@ from stations.thecurrent import get_the_current
 
 DEBUGGER = False
 SAVE_WEB_PAGES = False
-SONG_DB_FILE = "./all_stations.db"
+#SONG_DB_FILE = "./all_stations.db"
+SONG_DB_FILE = "./test.db"
 # station names that match the db table names
 STATION_LIST = ["the_current", "jack_fm", "kqrs", "cities_97"]
 
@@ -76,7 +77,7 @@ def get_last_songs(song_db_file):
         # check if the table exists
         c.execute('''SELECT count(name) FROM sqlite_master WHERE type='table' AND name=\'''' + station + '''\';''')
         # TODO check that this still works once there exists the table
-        if (c.fetchone()[0] == 0):
+        if c.fetchone()[0] == 0:
             # dne, set the last song to blank
             if DEBUGGER:
                 print('Table "' + station + '" does not exist. Setting last song to "".')
@@ -87,7 +88,11 @@ def get_last_songs(song_db_file):
             c.execute('''SELECT song_name FROM ''' + station + ''' ORDER BY timestamp DESC LIMIT 1;''')
             last_song = c.fetchall()
         # TODO fix having to use [0][0] by updating the query
-        last_songs_dict[station] = last_song[0][0]
+        # catch if the table is empty
+        if last_song == []:
+            last_songs_dict[station] = ""
+        else:
+            last_songs_dict[station] = last_song[0][0]
     if DEBUGGER:
         print("Gathered last songs:")
         print("\t" + str(last_songs_dict))
@@ -131,6 +136,7 @@ def log_songs(song_db_file, songs_dict):
                         song_name text,
                         album_name text,
                         artist_name text,
+                        datestamp text,
                         timestamp text,
                         radio_show text,
                         dj text ); """
@@ -141,10 +147,15 @@ def log_songs(song_db_file, songs_dict):
                     print(e)
 
             # add the song to the given station's table
-            current_datetime = datetime.now().isoformat()
-            sql_add_song = ''' INSERT INTO ''' + station + ''' (station_name,song_name,artist_name,timestamp) VALUES(?,?,?,?)''' 
+            # current_datetime = datetime.now().isoformat()
+            # date and time formats should match what sqlite uses (2021-08-14 and 15:44:06)
+            now = datetime.now()
+            current_date = now.strftime("%Y-%m-%d")
+            current_time = now.strftime("%H:%M:%S")
+            
+            sql_add_song = ''' INSERT INTO ''' + station + ''' (station_name,song_name,artist_name,datestamp,timestamp) VALUES(?,?,?,?,?)''' 
               
-            add_song_values = (station, songs_dict[station][0], songs_dict[station][1], current_datetime)
+            add_song_values = (station, songs_dict[station][0], songs_dict[station][1], current_date, current_time)
 
             try:
                 c.execute(sql_add_song, add_song_values)
