@@ -29,14 +29,4 @@ def get_kqrs(DEBUGGER=False, SAVE_WEB_PAGES=False):
     if DEBUGGER:
         print("artist = " + artist)
 
-    # # check if the song is new and log it
-    # if ((song != last_song[0]) or (artist != last_song[1])):
-    #     if DEBUGGER:
-    #         print("KQRS: " + song + " - " + artist)
-    #         print("KQRS song is new, logging...")
-    #     log_song(KQRS_FILENAME, song, artist)
-    # else:
-    #     if DEBUGGER:
-    #         print("The Current - no new song")
-
     return [song, artist]

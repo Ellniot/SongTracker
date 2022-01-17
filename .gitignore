@@ -6,3 +6,13 @@ last_songs.csv
 stations/__pycache__/
 
 all_stations.db
+
+cities_97.html
+
+jack_fm.json
+
+*.db
+
+the_current.html
+
+the_current.json

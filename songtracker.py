@@ -21,13 +21,14 @@ import traceback
 
 # import the scraper modules
 from stations.cities97 import get_cities_97
-from stations.jackfm import get_jack_fm
+from stations.jackfm_NEW import get_jack_fm
 from stations.kqrs import get_kqrs
-from stations.thecurrent import get_the_current
+#from stations.thecurrent import get_the_current
+from stations.thecurrent_NEW import get_the_current
 
 
-DEBUGGER = False
-SAVE_WEB_PAGES = False
+DEBUGGER = True
+SAVE_WEB_PAGES = True
 #SONG_DB_FILE = "./all_stations.db"
 SONG_DB_FILE = "./test.db"
 # station names that match the db table names
